@@ -118,17 +118,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images (1).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="0e59ece3-a782-4bf4-0fee-08dc03bd71534" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0e59ece3-a782-4bf4-0fee-08dc03bd71534.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="0e59ece3-a782-4bf4-0fee-08dc03bd7153" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\0e59ece3-a782-4bf4-0fee-08dc03bd7153.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="4c993d398afa2c5c8c648ee70e4cf077" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4c993d398afa2c5c8c648ee70e4cf077.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="1000359484" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1000359484.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="images (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images (1)1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="e14f9d07-d111-45a6-bfd2-32abf759afad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e14f9d07-d111-45a6-bfd2-32abf759afad.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="0e59ece3-a782-4bf4-0fee-08dc03bd71532" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\0e59ece3-a782-4bf4-0fee-08dc03bd71532.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -136,25 +139,106 @@
   <data name="champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="0e59ece3-a782-4bf4-0fee-08dc03bd71533" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\0e59ece3-a782-4bf4-0fee-08dc03bd71533.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="e3a90f009ddfa16ccd73711a8ed00146" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e3a90f009ddfa16ccd73711a8ed00146.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="password-180" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\password-180.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="01bc12bb-48c2-41eb-9e5f-0883c94ab172" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\01bc12bb-48c2-41eb-9e5f-0883c94ab172.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="4c993d398afa2c5c8c648ee70e4cf0771" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4c993d398afa2c5c8c648ee70e4cf0771.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0e59ece3-a782-4bf4-0fee-08dc03bd71533" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0e59ece3-a782-4bf4-0fee-08dc03bd71533.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gemini_Generated_Image_gw61vegw61vegw612" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gemini_Generated_Image_gw61vegw61vegw612.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\champions-league-stadium-football-sports-game-soccer-stadium-wallpaper-preview.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lock-feature-vector-technology-icon-silver-gray-background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lock-feature-vector-technology-icon-silver-gray-background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gemini_Generated_Image_gw61vegw61vegw611" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gemini_Generated_Image_gw61vegw61vegw611.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="padlock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\padlock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gemini_Generated_Image_gw61vegw61vegw61" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gemini_Generated_Image_gw61vegw61vegw61.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gemini_Generated_Image_f5svqf5svqf5svqf1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gemini_Generated_Image_f5svqf5svqf5svqf1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2025-04-16 at 3.24.02 PM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2025-04-16 at 3.24.02 PM.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gemini_Generated_Image_f5svqf5svqf5svqf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gemini_Generated_Image_f5svqf5svqf5svqf.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0e59ece3-a782-4bf4-0fee-08dc03bd7153" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0e59ece3-a782-4bf4-0fee-08dc03bd7153.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="password-180" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\password-180.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a74f8a7b-24eb-48cf-bbef-2f7335988855" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a74f8a7b-24eb-48cf-bbef-2f7335988855.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hidden" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hidden.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1000359715-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1000359715-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a76df5823232294d0225da97712a7c9d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a76df5823232294d0225da97712a7c9d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eye" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eye.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="0e59ece3-a782-4bf4-0fee-08dc03bd71531" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\0e59ece3-a782-4bf4-0fee-08dc03bd71531.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="0e59ece3-a782-4bf4-0fee-08dc03bd71534" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\0e59ece3-a782-4bf4-0fee-08dc03bd71534.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="c2e84a1e-6d39-40de-893f-18e43768e8b1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c2e84a1e-6d39-40de-893f-18e43768e8b1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="375a4789-9693-4409-8744-f9986f61b087" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\375a4789-9693-4409-8744-f9986f61b087.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c2e84a1e-6d39-40de-893f-18e43768e8b11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c2e84a1e-6d39-40de-893f-18e43768e8b11.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lock logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lock logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eye1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eye1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Picsart_25-04-15_22-14-23-615" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Picsart_25-04-15_22-14-23-615.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1)1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1000360233-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1000360233-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
